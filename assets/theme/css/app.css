@@ -16,13 +16,6 @@ article h1 {
 header nav{
     margin: 1%;padding: 1%;
 }
-article{border-bottom: dotted 1px;}
-
-body{
-    background-color: #222831;
-    color:#00DAE6;
-}
-
-main{
-    color:#003033;
+article{
+    border-bottom: dotted 1px;
 }
