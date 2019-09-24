@@ -1,10 +1,6 @@
 # cybotranik wui - example - blog page
 
-![Cybotranik-wui](docs/media/favicon.png)
-
-# Bugs and feature requests
-
-Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
+![Cybotranik-wui-example-blog](docs/media/shema.png)
 
 # Documents.
 
@@ -23,6 +19,10 @@ Please read these guidelines before contributing to Cybotranik:
 - Before you begin, [Contribute](CONTRIBUTING.md)
 - Before you begin, [Code of Conduct](CODE_OF_CONDUCT.md)
 - Before you begin, [See the pull requests.](../../pulls)
+
+# Bugs and feature requests
+
+Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
 
 # Copyright and license
 
